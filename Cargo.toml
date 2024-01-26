@@ -1,0 +1,8 @@
+[package]
+name = "Ice-Ctf"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sandy = "0.2.7"
+urlencoding = "2.1.3"
